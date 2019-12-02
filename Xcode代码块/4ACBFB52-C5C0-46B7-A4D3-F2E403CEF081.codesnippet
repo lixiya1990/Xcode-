@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>q-zs</string>
+	<string>@assign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#注释#&gt; */</string>
+	<string>@property (nonatomic, assign) &lt;#Class#&gt; &lt;#property#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9217BD17-FE92-4179-AD6D-327C7B6BDD1C</string>
+	<string>4ACBFB52-C5C0-46B7-A4D3-F2E403CEF081</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>注释</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>注释</string>
+	<string>q-@property-assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

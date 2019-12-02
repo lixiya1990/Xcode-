@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>q-staticCellID</string>
+	<string>@block</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static NSString *const &lt;#name#&gt; = @"&lt;#name#&gt;";</string>
+	<string>@property (nonatomic, copy) &lt;#Block#&gt; &lt;#block#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6D620BA1-3C06-4E62-93D1-24B25B31774E</string>
+	<string>577830F5-2372-4156-BFF2-C9910C2411B9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>q-staticCellID</string>
+	<string>q-@property-block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
